@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Database Practice</string>
+    <string name="db_drop">DROP TABLE IF EXISTS</string>
+</resources>
